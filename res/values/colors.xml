@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    
+    <color name="color_highted">#c81c6f</color>
+    
+	<!-- LIST BORDER COLOR -->
+	<!-- <color name="rounded_container_border">#ffb7babb</color> -->
+	<color name="rounded_container_border">#ff000000</color>
+
+	<!-- ITEM BACKGROUND COLOR - STATE - DEFAULT -->
+	<color name="base_start_color_default">#FFFFFF</color>
+    <color name="base_end_color_default">#FFFFFF</color>
+    	
+	<!-- ITEM BACKGROUND COLOR - STATE - PRESSED -->
+	<color name="base_start_color_pressed">#ff3590c4</color>
+    <color name="base_end_color_pressed">#ff2570ba</color>
+    
+    <!-- ITEM TEXT COLORS - STATES - PRESSED AND DEFAULT -->
+    <color name="text_color_default">#000000</color>
+    <color name="text_color_pressed">#ffffff</color>
+    
+    <!-- BACK GROUND COLOR FOR SECTION -->
+    <color name="bg_color_section_setting">#515a63</color>
+    <color name="bg_color_opt_setting1">#edeef0</color>
+    <color name="bg_color_opt_setting">#dfdfdf</color>
+    
+    <color name="text_color_opt_setting">#5e5e5e</color>
+    <color name="bg_divider_opt_setting">#919598</color>
+    
+    <color name="bg_light_divider">#ffffff</color>
+    <color name="bg_dark_divider">#55585d</color>
+    
+    <color name="bg_white_alpha">#c0ffffff</color>
+    <color name="bg_white_alpha_glass">#f6ffffff</color>
+    <color name="bg_white_full">#ffffff</color>
+</resources>
